@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="Styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONTACT US</title>
+</head>
+<body>
+    <section class="form">
+        <form action="">
+            <label for="fname">First name:</label><input type="text" id="fname" name="fname"><br>
+            <label for="lname">Last name:</label><input type="text" id="lname" name="lname"><br>
+            <label for="birthdate">Date of Birth: </label><input type="date" id="birthdate" name="birthdate">,<br>
+            <label for="gender">Gender:</label><input type="radio" name="radiobutton" value="myValue1">Male <input type="radio" name="radiobutton" value="myValue2">Female<br>
+            <label for="number">Phone Number: </label><input type="tel" placeholder="Format:1234567890" pattern="[0-9]{10}"><br>
+            <label for="email">Email: </label><input type="email" placeholder="example@gmail.com" required><br>
+            <label for="password">Password: </label><input type="password"><br>
+            <label for="age">Your age: </label><input type="radio" name="radiobutton" value="myValue1">Under 18 <input type="radio" name="radiobutton" value="myValue2">18+ <br>
+            <label for="education">Highest Qualification: </label><input type="search" list="degrees" required>
+              <datalist id="degrees">
+                <option value="10th">
+                <option value="12th">
+                <option value="Under-graduate">
+                <option value="Post-graduate">
+                <option value="None">
+              </datalist><br>
+            <label for="mmessage">Your Message:</label><textarea rows="5" cols="70"></textarea><br>
+            <input type="submit" value="Submit">      
+
+        </form>
+    </section>
+    
+</body>
+</html>

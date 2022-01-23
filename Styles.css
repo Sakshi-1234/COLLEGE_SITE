@@ -1,0 +1,214 @@
+.heading{
+    background-color: #24A19C;
+    height: 64px;
+    margin-bottom: 20px;
+}
+body{
+    background-color: #EDF6E5;
+}
+.heading1{
+    margin-left: 20px;
+    color: cornsilk;
+}
+
+.home-icon{
+    padding-left: 20px;
+}
+.image1{
+    height: 500px;
+    text-align: center;
+}
+
+.heading3{
+    background-color: #1C6DD0;
+    
+}
+
+.svg{
+    fill: #1C6DD0;
+}
+
+.heading2{
+    margin-top: 7px;
+    margin-left: 17px;
+    color: cornsilk;
+}
+
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+body{
+    margin: 0px;
+}
+
+.nav-item3{
+    margin-left: 900px;
+    color: #D3DEDC;
+    font-size: 1.2rem;
+    font-family: 'Luxurious Roman', cursive;
+    position: relative;
+    right: 30px;
+}
+
+.nav-item2{
+    position: relative ;
+    left: 800px;
+    color: #D3DEDC;
+    font-family: 'Luxurious Roman', cursive;
+    font-size: 1.2rem;
+}
+
+.nav-item1{
+    position: relative;
+    left: 720px;
+    right: 100px;
+    color: #D3DEDC;
+    font-family: 'Luxurious Roman', cursive;
+    font-size: 1.2rem;
+    padding-bottom: 5px;
+}
+
+.icon3{
+    padding-right: 10px;
+    position: relative;
+    
+}
+
+.icon2{
+    padding-right: 10px;
+}
+
+.icon1{
+    padding-right: 10px;
+}
+
+.nav-item1:hover{
+    color: black;
+}
+
+.nav-item2:hover{
+    color: black;
+}
+
+.nav-item3:hover{
+    color: black;
+}
+
+.image-1{
+    width: 100%;
+    border-radius: 25px;
+    margin-left: 20px;
+}
+
+.about-us{
+    padding-left: 60px;
+    font-family: 'Luxurious Roman', cursive;
+    
+}
+
+.alumini{
+    margin-left: 20px;
+    margin-top: 50px;
+    font-family: 'Luxurious Roman', cursive;
+    border-style: double;
+    width: 240px;
+    padding: 10px;
+}
+
+.al-1{
+    height: 420px;
+    width: 350px;
+    border-style: groove;
+    margin-left: 27px;
+    text-align: center;
+    background-color: #E3BEC6;
+    color: gray;
+}
+
+.al-2{
+    background-color: #CFFFDC;
+    height: 420px;
+    width: 350px;
+    border-style: groove;
+    margin-left: 27px;
+    text-align: center;
+    color: gray;
+}
+
+.al-3{
+    height: 420px;
+    width: 350px;
+    border-style: groove;
+    margin-left: 27px;
+    text-align: center;
+    background-color: #E3BEC6;
+    color: gray;
+}
+
+.al-4{
+    background-color: #CFFFDC;
+    height: 420px;
+    width: 350px;
+    border-style: groove;
+    margin-left: 27px;
+    text-align: center;
+    color: gray;
+}
+
+.icon-male{
+    color: black;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.icon-female{
+    color: black;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.al-name{
+    color: #9A0680;
+}
+
+p{
+    font-family: 'Luxurious Roman', cursive;
+}
+
+.imagemap{
+    margin-top: 40px;
+    margin-left: 320px;
+    width: 50%;
+}
+
+.map{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-family: 'Luxurious Roman', cursive;
+}
+.row{
+    margin-bottom: 40px;
+}
+
+.btn{
+    border-radius: 25px;
+    background-color:#93FFD8;
+    padding: 10px;
+    border-style: l;
+    width: 150px;
+    position: relative;
+    left: 750px;
+    margin-bottom: 20px;
+}
+.btn:hover{
+    background-color: #9AD0EC;
+}
+.form{
+    line-height: 2.5;
+    margin: 20px;
+    position: relative;
+    left: 40px;
+    font-family: 'Luxurious Roman', cursive;
+}
